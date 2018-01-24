@@ -1,0 +1,12 @@
+[
+{
+	"Horario_de_trabajo_para_Vertical_Technologies" :
+		{
+			"Lunes"      :      { "inicio" : "10:00", "fin" : "17:30" },
+			"Martes"     :      { "inicio" : "08:00", "fin" : "17:30" },
+			"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
+			"Jueves"     :      { "inicio" : "14:00", "fin" : "17:30" },
+			"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }
+	}
+}
+]

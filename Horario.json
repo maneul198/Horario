@@ -7,6 +7,6 @@
 			"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
 			"Jueves"     :      { "inicio" : "14:00", "fin" : "17:30" },
 			"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }
-	}
+		}
 }
 ]

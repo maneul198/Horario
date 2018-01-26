@@ -1,21 +1,24 @@
 [
-{
-	"Horario_de_trabajo_para_Vertical_Technologies" :
-		{
-		"Manuel":{
-			"Lunes"      :      { "inicio" : "10:00", "fin" : "17:30" },
-			"Martes"     :      { "inicio" : "08:00", "fin" : "17:30" },
-			"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
-			"Jueves"     :      { "inicio" : "14:00", "fin" : "17:30" },
-			"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }
-			},
-		"Alexis":{
-			"Lunes"      :      { "inicio" : "08:00", "fin" : "17:30" },
-			"Martes"     :      { "inicio" : "08:00", "fin" : "13:00" },
-			"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
-			"Jueves"     :      { "inicio" : "08:00", "fin" : "13:00" },
-			"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }	
+	{
+		"Horario_de_trabajo_para_Vertical_Technologies" :
+			{
+			"Manuel":
+				{
+					"Lunes"      :      { "inicio" : "10:00", "fin" : "17:30" },
+					"Martes"     :      { "inicio" : "08:00", "fin" : "17:30" },
+					"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
+					"Jueves"     :      { "inicio" : "14:00", "fin" : "17:30" },
+					"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }
+				},
+
+			"Alexis":
+				{
+					"Lunes"      :      { "inicio" : "08:00", "fin" : "17:30" },
+					"Martes"     :      { "inicio" : "08:00", "fin" : "13:00" },
+					"Miercoles"  :      { "inicio" : "14:00", "fin" : "17:30" },
+					"Jueves"     :      { "inicio" : "08:00", "fin" : "13:00" },
+					"Viernes"    :      { "inicio" : "08:00", "fin" : "17:30" }	
+				}
 			}
-		}
-}
+	}
 ]
